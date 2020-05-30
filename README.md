@@ -1,21 +1,9 @@
-# astronomy_app
+<h1>Astronomize</h1>
 
-> A Vue.js project
+**This app connects to the NASA API and allows the user to view the NASA Picture of the Day, 
+search photos related to space and view space related news.<br /><br />**
+ 
+**To run this app run `git clone https://github.com/HarryH-Tech/Astronomy_App.git` into the directory you want to save the file to then navigate into the 
+Astronomy_App directory and run `npm install`. Then run `npm run dev` and you should see the screen below.**
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![App Screenshot](./AppScreenshot.PNG)
